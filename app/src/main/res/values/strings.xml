@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExampleBUNCH</string>
+    <string name="edit_text_hint">Введите текст</string>
+
+    <string name="launch_sync_edittext_button_text">Синхронизированные EditText</string>
+    <string name="launch_weight_converter_text">Конвертер мер веса</string>
+
+    <string name="ton">тонна (т)</string>
+    <string name="centner">центнер (ц)</string>
+    <string name="kilogram">килограмм (кг)</string>
+    <string name="gram">грамм (г)</string>
+
+
+</resources>
