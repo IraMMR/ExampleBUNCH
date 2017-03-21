@@ -14,6 +14,6 @@ Here you'll find 4 EditTexts with synchronized content. It means that when you s
 
 WeightConverterFragment. 
 
-There are 4 EditText for values in tons, centners, kilograms, grams. When you set some value to any of the fields, all others fields take values corresponding to the declared weight unit. For example, when you set 78 in kilograms textView,    ons textView takes value 0.078, centners textView takes value 0.78, and gramsTextView takes value 78000.
+There are 4 EditText for values in tons, centners, kilograms, grams. When you set some value to any of the fields, all others fields take values corresponding to the declared weight unit. For example, when you set 78 in kilograms editText, tons EextView takes value 0.078, centners EditText takes value 0.78, and grams EditText takes value 78000.
     
     
