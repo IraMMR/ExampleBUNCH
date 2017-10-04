@@ -8,7 +8,9 @@ Contains simple interesting examples, developed by me:
 SyncEditTextFragment.
 
 Here you'll find 4 EditTexts with synchronized content. It means that when you set a new value in some of them,   all others EditTexts take the same value.
+
 SyncEditTextFragment Demo:
+
 <img src="https://github.com/IraMMR/ExampleBUNCH/blob/master/Syncronized_EditText.gif" alt="SyncEditTextFragment Demo">
     
 
